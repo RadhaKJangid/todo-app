@@ -19,3 +19,6 @@ move
 go
 come
 clean the table
+
+add
+addede
